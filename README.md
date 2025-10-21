@@ -60,5 +60,5 @@ This project provides an **Interactive Data Analysis and Transformation Tool** u
 This project is licensed under the MIT License.
 
 ---
-👨‍💻 Developed by **Abhishek** | 📧 Contact: abhishekkollipara157@gmail.com
+👨‍💻 Developed by **Abhishek** | 📧 Contact: abhishekkollipara28@gmail.com
 
